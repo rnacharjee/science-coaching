@@ -1,0 +1,10 @@
+.top-navigation {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(86, 86, 241),
+    rgb(64, 25, 190),
+    rgb(2, 2, 58)
+  );
+  color: rgb(54, 253, 220);
+  font-weight: 500;
+}

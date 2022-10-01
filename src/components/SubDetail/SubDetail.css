@@ -1,0 +1,10 @@
+.tutor-details {
+  background-image: linear-gradient(
+    to right,
+    rgb(184, 245, 203),
+    rgb(168, 168, 149)
+  );
+}
+.questions {
+  background-color: rgb(231, 231, 242);
+}

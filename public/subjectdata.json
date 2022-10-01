@@ -1,0 +1,243 @@
+[
+  {
+    "id": "1",
+    "subject": "physics",
+    "question": "Which types of waves are utilized in the night visionary equipment?",
+    "answer": "Infrared wave"
+  },
+  {
+    "id": "2",
+    "subject": "physics",
+    "question": "Sound above what level (in decible) is considered hazardous noise pollution?",
+    "answer": "80 db"
+  },
+  {
+    "id": "3",
+    "subject": "physics",
+    "question": "The speed of the sound increases when there is an increase in the ,1. temperature ,2. moisture",
+    "answer": "Both 1 & 2"
+  },
+  {
+    "id": "4",
+    "subject": "physics",
+    "question": "The speed of the sound increases when there is an increase in the temperature as well as moisture. Speed of the sound increases by 0.61 meter per second for each ° increase in temperature.",
+    "answer": "Water"
+  },
+  {
+    "id": "5",
+    "subject": "physics",
+    "question": "The propagation of the Radio Waves in the atmosphere of earth is affected by ___:, 1. Reflection, 2. Refraction, 3. Diffraction, 4. Absorption",
+    "answer": "1, 2, 3 & 4"
+  },
+  {
+    "id": "6",
+    "subject": "physics",
+    "question": "The branch of mechanics which deals with the study of motion of material objects without taking into account the factors which cause motion is called as:",
+    "answer": "Kinematics"
+  },
+  {
+    "id": "7",
+    "subject": "physics",
+    "question": "As per the Newtons second law of motion, what is the relation between the rate of change of linear momentum and the external force applied?",
+    "answer": "inversely proportional"
+  },
+  {
+    "id": "8",
+    "subject": "physics",
+    "question": "What is the dimensional formula of Gravitational Potential?",
+    "answer": "M0 L2 T-2"
+  },
+  {
+    "id": "9",
+    "subject": "physics",
+    "question": "What is the time period for a satellite orbiting close to the surface of earth?",
+    "answer": "84.6 minutes"
+  },
+  {
+    "id": "10",
+    "subject": "physics",
+    "question": "In which of these transistors, the two segments of n-type semiconductor are separated by a segment of p-type semiconductor?",
+    "answer": "n-p-n transistor"
+  },
+
+  {
+    "id": "11",
+    "subject": "chemistry",
+    "question": "The purest form of iron is ",
+    "answer": "wrought iron"
+  },
+  {
+    "id": "12",
+    "subject": "chemistry",
+    "question": "Hydrogen bomb is based on the principle of ",
+    "answer": "nuclear fusion"
+  },
+  {
+    "id": "13",
+    "subject": "chemistry",
+    "question": "What is the molecular formula of Butyne",
+    "answer": "c4H6"
+  },
+  {
+    "id": "14",
+    "subject": "chemistry",
+    "question": "What is the IUPAC name for the following compound? H3C _ C≡C _ H",
+    "answer": "Methyl acetylene"
+  },
+  {
+    "id": "15",
+    "subject": "chemistry",
+    "question": "How many molecules are present in one mole of water?",
+    "answer": "6.02 x 1023 molecules"
+  },
+  {
+    "id": "16",
+    "subject": "chemistry",
+    "question": "Brass gets discoloured in air because of the presence of which of the following gases in air  ?",
+    "answer": "Hydrogen sulphide"
+  },
+  {
+    "id": "17",
+    "subject": "chemistry",
+    "question": "Is C2 Paramagnetic or Diamagnetic?",
+    "answer": "Diamagnetic"
+  },
+  {
+    "id": "18",
+    "subject": "chemistry",
+    "question": "Which of the following group is NOT Dobereiner Triads?",
+    "answer": " N, P , Au"
+  },
+  {
+    "id": "19",
+    "subject": "chemistry",
+    "question": "Name the Scientist who stated that matter can be converted into energy",
+    "answer": " Einstein"
+  },
+  {
+    "id": "20",
+    "subject": "chemistry",
+    "question": "When formaldehyde and potassium hydroxide are heated , we get ",
+    "answer": "Methyl alcohol"
+  },
+  {
+    "id": "21",
+    "subject": "biology",
+    "question": "A ripe Tomato is Red, Leaves are Green, Flower is Purple, Hair is Black. Bring out the pigments responsible for these colors respectively ?",
+    "answer": "[Lycopene, Chlorophyll, Anthocyanin, Melanin]"
+  },
+  {
+    "id": "22",
+    "subject": "biology",
+    "question": "Turmeric belongs to from which one of the following family of plants?",
+    "answer": "Ginger"
+  },
+  {
+    "id": "23",
+    "subject": "biology",
+    "question": "The biological nature of the virus came from studies by the Russian scientist ____ in 1892 and by the Dutch scientist ____ in 1898.",
+    "answer": "[Dmitry I. Ivanovsky, Martinus W. Beijerinck]"
+  },
+  {
+    "id": "24",
+    "subject": "biology",
+    "question": "How many amino acids are needed to make proteins?",
+    "answer": "20"
+  },
+  {
+    "id": "25",
+    "subject": "biology",
+    "question": "The region where the leaves arise is__.",
+    "answer": "nodes"
+  },
+  {
+    "id": "26",
+    "subject": "biology",
+    "question": "External ears are characteristics of:",
+    "answer": "Mammals"
+  },
+  {
+    "id": "27",
+    "subject": "biology",
+    "question": "Breathing, heartbeat, sleep, wakefulness, and motor learning are controlled by which part of the brain?",
+    "answer": "Hindbrain"
+  },
+  {
+    "id": "28",
+    "subject": "biology",
+    "question": "Why is excretion a vital process in the human body?",
+    "answer": "because it helps to remove the waste products from the body"
+  },
+  {
+    "id": "29",
+    "subject": "biology",
+    "question": "Name the hardest material present in the body",
+    "answer": "Enamel"
+  },
+  {
+    "id": "30",
+    "subject": "biology",
+    "question": "Which gland is considered as the Third eye of the body or biological clock of the body?",
+    "answer": "Pineal gland"
+  },
+  {
+    "id": "31",
+    "subject": "computer",
+    "question": "MS-Word is an example of _____",
+    "answer": "Application software"
+  },
+  {
+    "id": "32",
+    "subject": "computer",
+    "question": "Ctrl, Shift and Alt are called .......... keys.",
+    "answer": "modifier"
+  },
+  {
+    "id": "33",
+    "subject": "computer",
+    "question": "A computer cannot boot if it does not have the _____",
+    "answer": "Operating system"
+  },
+  {
+    "id": "34",
+    "subject": "computer",
+    "question": "________ is the process of dividing the disk into tracks and sectors",
+    "answer": "Formatting"
+  },
+  {
+    "id": "35",
+    "subject": "computer",
+    "question": "Junk e-mail is also called ______",
+    "answer": "Spam"
+  },
+  {
+    "id": "36",
+    "subject": "computer",
+    "question": "Where is RAM located?",
+    "answer": "Mother Board"
+  },
+  {
+    "id": "37",
+    "subject": "computer",
+    "question": "What is the Full Form of INTERNET ?",
+    "answer": "Internet' is the shortened form of 'INTERnational-NETwork' which is the interconnected network of all the Web Servers worldwide. It is often called the 'World Wide Web'"
+  },
+  {
+    "id": "38",
+    "subject": "computer",
+    "question": "The function of BIOS is to",
+    "answer": "Initialize the system hardware components"
+  },
+  {
+    "id": "39",
+    "subject": "computer",
+    "question": "The first computer was programmed using .......",
+    "answer": "Machine language"
+  },
+  {
+    "id": "40",
+    "subject": "computer",
+    "question": "C, BASIC, COBOL, and Java are examples of ............language",
+    "answer": "high-level"
+  }
+]
