@@ -34,7 +34,9 @@ const Subject = (props) => {
         <Card.Img className="img-fluid" src={subjectImg}></Card.Img>
 
         <Card.Body className=" bg-dark text-light align-items-end rounded">
-          <p className="p-0 m-0 text-warning fs-3 fw-bolder">{subject}</p>
+          <p className="p-0 m-0 text-warning fs-3 fw-bolder">
+            {subject.toUpperCase()}
+          </p>
 
           <p className=" p-0 m-0  fw-bolder">By</p>
           <Card.Text className=" p-0  m-0 text-primary fw-bolder">
