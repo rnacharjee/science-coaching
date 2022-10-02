@@ -7,6 +7,7 @@ import About from "./components/About/About";
 import Login from "./components/Login/Login";
 import Footer from "./components/Footer/Footer";
 import SubDetail from "./components/SubDetail/SubDetail";
+import Error from "./components/Error/Error";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="/about" element={<About></About>}></Route>
           <Route path="/about" element={<About></About>}></Route>
           <Route path="/login" element={<Login></Login>}></Route>
+          <Route path="/*" element={<Error></Error>}></Route>
         </Routes>
         <Footer></Footer>
       </BrowserRouter>
